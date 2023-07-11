@@ -287,3 +287,42 @@ line-height: normal;
     display: flex;
     justify-content: center;
 }
+
+.footer{
+    background: #111010;
+    width: 1922px;
+height: 449px;
+text-align: center;
+}
+
+.footer-part{
+    padding-top: 128px;
+
+}
+.footer-title{
+    color: #E55473;
+
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.title-shop{
+    color: white;
+}
+.footer-para{
+    color: rgba(255, 255, 255, 0.90);
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
